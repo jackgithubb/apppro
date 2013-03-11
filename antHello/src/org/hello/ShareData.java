@@ -1,6 +1,6 @@
 package org.hello;
 
-// 共享一个静态数据对象
+// share data
 public class ShareData {
 	public static String szData = "";
 }
